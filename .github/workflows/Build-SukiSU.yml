@@ -25,7 +25,7 @@ on:
       KERNEL_NAME:
         description: "修改内核名称"
         required: true
-        default: '-android12-9-o-酷安Deuteriun'
+        default: '-android12-9-o-gf82ad553a048'
       kernelsu_variant:
         description: "选择 KSU"
         required: true
